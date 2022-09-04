@@ -3,4 +3,3 @@ hello git
 hello CPP
 hello py
 hello pandas
-hello AI
